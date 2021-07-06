@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 
 import MealItemForm from "./AuctionItemForm";
-import classes from "./MealItem.module.css";
+import classes from "./AuctionItem.module.css";
 import CartContext from "../../../store/cart-context";
 import Timer from "./Timer";
 

@@ -1,5 +1,5 @@
 import Card from "../UI/Card";
-import classes from "./AvailableMeals.module.css";
+import classes from "./AvailableAuctions.module.css";
 import MealItem from "./AuctionItem/AuctionItem";
 import E from "../../assets/image2.jpg";
 import F from "../../assets/main.jpg";
@@ -10,7 +10,7 @@ const DUMMY_MEALS = [
     name: "Sushi",
     description: "Finest fish and veggies",
     price: 22.99,
-    due: "June 30 2021 00:00:00",
+    due: "July 30 2021 00:00:00",
     src: E,
   },
   {
@@ -18,7 +18,7 @@ const DUMMY_MEALS = [
     name: "Schnitzel",
     description: "A german specialty!",
     price: 16.5,
-    due: "June 30 2021 00:00:00",
+    due: "July 30 2021 00:00:00",
     src: F,
   },
   {
@@ -26,7 +26,7 @@ const DUMMY_MEALS = [
     name: "Barbecue Burger",
     description: "American, raw, meaty",
     price: 12.99,
-    due: "June 30 2021 00:00:00",
+    due: "July 30 2021 00:00:00",
     src: E,
   },
   {
@@ -34,7 +34,7 @@ const DUMMY_MEALS = [
     name: "Green Bowl",
     description: "Healthy...and green...",
     price: 18.99,
-    due: "June 30 2021 00:00:00",
+    due: "July 30 2021 00:00:00",
     src: E,
   },
   {
@@ -42,7 +42,7 @@ const DUMMY_MEALS = [
     name: "Sushi1",
     description: "Finest fish and veggies",
     price: 22.99,
-    due: "June 30 2021 00:00:00",
+    due: "July 30 2021 00:00:00",
     src: E,
   },
   {
